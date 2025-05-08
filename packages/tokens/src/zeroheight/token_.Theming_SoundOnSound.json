@@ -515,7 +515,7 @@
       "$value": 64
     }
   },
-  "Typographie": {
+  "Typography": {
     "Font family": {
       "body": {
         "$type": "string",
