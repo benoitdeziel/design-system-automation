@@ -107,23 +107,23 @@
     "Primaries": {
       "100": {
         "$type": "color",
-        "$value": "{Colors.Turquoise.100}"
+        "$value": "{Colors.Blue.100}"
       },
       "1000": {
         "$type": "color",
-        "$value": "{Colors.Turquoise.1000}"
+        "$value": "{Colors.Blue.1000}"
       },
       "200": {
         "$type": "color",
-        "$value": "{Colors.Turquoise.200}"
+        "$value": "{Colors.Blue.200}"
       },
       "300": {
         "$type": "color",
-        "$value": "{Colors.Turquoise.300}"
+        "$value": "{Colors.Blue.300}"
       },
       "400": {
         "$type": "color",
-        "$value": "{Colors.Turquoise.400}"
+        "$value": "{Colors.Blue.400}"
       },
       "400 alpha 24": {
         "$type": "color",
@@ -135,11 +135,11 @@
       },
       "50": {
         "$type": "color",
-        "$value": "{Colors.Turquoise.50}"
+        "$value": "{Colors.Blue.50}"
       },
       "500": {
         "$type": "color",
-        "$value": "{Colors.Turquoise.500}"
+        "$value": "{Colors.Blue.500}"
       },
       "500 alpha 16 (NEW)": {
         "$type": "color",
@@ -159,19 +159,19 @@
       },
       "600": {
         "$type": "color",
-        "$value": "{Colors.Turquoise.600}"
+        "$value": "{Colors.Blue.600}"
       },
       "700": {
         "$type": "color",
-        "$value": "{Colors.Turquoise.700}"
+        "$value": "{Colors.Blue.700}"
       },
       "800": {
         "$type": "color",
-        "$value": "{Colors.Turquoise.800}"
+        "$value": "{Colors.Blue.800}"
       },
       "900": {
         "$type": "color",
-        "$value": "{Colors.Turquoise.900}"
+        "$value": "{Colors.Blue.900}"
       }
     },
     "Quaternaries": {
@@ -515,7 +515,7 @@
       "$value": 64
     }
   },
-  "Typographie": {
+  "Typography": {
     "Font family": {
       "body": {
         "$type": "string",
