@@ -119,9 +119,7 @@
             "type": "string"
           }
         }
-      }
-    },
-    "typographie": {
+      },
       "font-family": {
         "body": {
           "base": {

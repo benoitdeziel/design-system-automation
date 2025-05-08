@@ -1,7 +1,7 @@
 {
   "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
   "line-height": {
-    "typographie": {
+    "typography": {
       "line-height": {
         "line-height-xs-x-small": {
           "base": {
@@ -128,11 +128,7 @@
             "value": "104px",
             "type": "lineHeight"
           }
-        }
-      }
-    },
-    "typography": {
-      "line-height": {
+        },
         "x-small": {
           "base": {
             "value": "16px",
