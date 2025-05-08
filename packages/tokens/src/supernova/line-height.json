@@ -1,0 +1,265 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "line-height": {
+    "typographie": {
+      "line-height": {
+        "line-height-xs-x-small": {
+          "base": {
+            "value": "16px",
+            "type": "lineHeight"
+          },
+          "light": {
+            "value": "16px",
+            "type": "lineHeight"
+          },
+          "dark": {
+            "value": "16px",
+            "type": "lineHeight"
+          }
+        },
+        "line-height-s-small": {
+          "base": {
+            "value": "18px",
+            "type": "lineHeight"
+          },
+          "light": {
+            "value": "18px",
+            "type": "lineHeight"
+          },
+          "dark": {
+            "value": "18px",
+            "type": "lineHeight"
+          }
+        },
+        "line-height-m-medium": {
+          "base": {
+            "value": "24px",
+            "type": "lineHeight"
+          },
+          "light": {
+            "value": "24px",
+            "type": "lineHeight"
+          },
+          "dark": {
+            "value": "24px",
+            "type": "lineHeight"
+          }
+        },
+        "line-height-l-large": {
+          "base": {
+            "value": "28px",
+            "type": "lineHeight"
+          },
+          "light": {
+            "value": "28px",
+            "type": "lineHeight"
+          },
+          "dark": {
+            "value": "28px",
+            "type": "lineHeight"
+          }
+        },
+        "line-height-xl-x-large": {
+          "base": {
+            "value": "32px",
+            "type": "lineHeight"
+          },
+          "light": {
+            "value": "32px",
+            "type": "lineHeight"
+          },
+          "dark": {
+            "value": "32px",
+            "type": "lineHeight"
+          }
+        },
+        "line-height-2xl-xx-large": {
+          "base": {
+            "value": "40px",
+            "type": "lineHeight"
+          },
+          "light": {
+            "value": "40px",
+            "type": "lineHeight"
+          },
+          "dark": {
+            "value": "40px",
+            "type": "lineHeight"
+          }
+        },
+        "line-height-3xl-xxx-large": {
+          "base": {
+            "value": "52px",
+            "type": "lineHeight"
+          },
+          "light": {
+            "value": "52px",
+            "type": "lineHeight"
+          },
+          "dark": {
+            "value": "52px",
+            "type": "lineHeight"
+          }
+        },
+        "line-height-4xl-xxxx-large": {
+          "base": {
+            "value": "64px",
+            "type": "lineHeight"
+          },
+          "light": {
+            "value": "64px",
+            "type": "lineHeight"
+          },
+          "dark": {
+            "value": "64px",
+            "type": "lineHeight"
+          }
+        },
+        "line-height-5xl-xxxxx-large": {
+          "base": {
+            "value": "104px",
+            "type": "lineHeight"
+          },
+          "light": {
+            "value": "104px",
+            "type": "lineHeight"
+          },
+          "dark": {
+            "value": "104px",
+            "type": "lineHeight"
+          }
+        }
+      }
+    },
+    "typography": {
+      "line-height": {
+        "x-small": {
+          "base": {
+            "value": "16px",
+            "type": "lineHeight"
+          },
+          "light": {
+            "value": "16px",
+            "type": "lineHeight"
+          },
+          "dark": {
+            "value": "16px",
+            "type": "lineHeight"
+          }
+        },
+        "small": {
+          "base": {
+            "value": "18px",
+            "type": "lineHeight"
+          },
+          "light": {
+            "value": "18px",
+            "type": "lineHeight"
+          },
+          "dark": {
+            "value": "18px",
+            "type": "lineHeight"
+          }
+        },
+        "medium": {
+          "base": {
+            "value": "24px",
+            "type": "lineHeight"
+          },
+          "light": {
+            "value": "24px",
+            "type": "lineHeight"
+          },
+          "dark": {
+            "value": "24px",
+            "type": "lineHeight"
+          }
+        },
+        "large": {
+          "base": {
+            "value": "28px",
+            "type": "lineHeight"
+          },
+          "light": {
+            "value": "28px",
+            "type": "lineHeight"
+          },
+          "dark": {
+            "value": "28px",
+            "type": "lineHeight"
+          }
+        },
+        "x-large": {
+          "base": {
+            "value": "32px",
+            "type": "lineHeight"
+          },
+          "light": {
+            "value": "32px",
+            "type": "lineHeight"
+          },
+          "dark": {
+            "value": "32px",
+            "type": "lineHeight"
+          }
+        },
+        "xx-large": {
+          "base": {
+            "value": "40px",
+            "type": "lineHeight"
+          },
+          "light": {
+            "value": "40px",
+            "type": "lineHeight"
+          },
+          "dark": {
+            "value": "40px",
+            "type": "lineHeight"
+          }
+        },
+        "xxx-large": {
+          "base": {
+            "value": "52px",
+            "type": "lineHeight"
+          },
+          "light": {
+            "value": "52px",
+            "type": "lineHeight"
+          },
+          "dark": {
+            "value": "52px",
+            "type": "lineHeight"
+          }
+        },
+        "xxxx-large": {
+          "base": {
+            "value": "64px",
+            "type": "lineHeight"
+          },
+          "light": {
+            "value": "64px",
+            "type": "lineHeight"
+          },
+          "dark": {
+            "value": "64px",
+            "type": "lineHeight"
+          }
+        },
+        "xxxxx-large": {
+          "base": {
+            "value": "104px",
+            "type": "lineHeight"
+          },
+          "light": {
+            "value": "104px",
+            "type": "lineHeight"
+          },
+          "dark": {
+            "value": "104px",
+            "type": "lineHeight"
+          }
+        }
+      }
+    }
+  }
+}

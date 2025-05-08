@@ -1,0 +1,265 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "font-size": {
+    "typographie": {
+      "font-size": {
+        "font-size-xs-x-small": {
+          "base": {
+            "value": "11px",
+            "type": "fontSize"
+          },
+          "light": {
+            "value": "11px",
+            "type": "fontSize"
+          },
+          "dark": {
+            "value": "11px",
+            "type": "fontSize"
+          }
+        },
+        "font-size-s-small": {
+          "base": {
+            "value": "13px",
+            "type": "fontSize"
+          },
+          "light": {
+            "value": "13px",
+            "type": "fontSize"
+          },
+          "dark": {
+            "value": "13px",
+            "type": "fontSize"
+          }
+        },
+        "font-size-m-medium": {
+          "base": {
+            "value": "15px",
+            "type": "fontSize"
+          },
+          "light": {
+            "value": "15px",
+            "type": "fontSize"
+          },
+          "dark": {
+            "value": "15px",
+            "type": "fontSize"
+          }
+        },
+        "font-size-l-large": {
+          "base": {
+            "value": "18px",
+            "type": "fontSize"
+          },
+          "light": {
+            "value": "18px",
+            "type": "fontSize"
+          },
+          "dark": {
+            "value": "18px",
+            "type": "fontSize"
+          }
+        },
+        "font-size-xl-x-large": {
+          "base": {
+            "value": "24px",
+            "type": "fontSize"
+          },
+          "light": {
+            "value": "24px",
+            "type": "fontSize"
+          },
+          "dark": {
+            "value": "24px",
+            "type": "fontSize"
+          }
+        },
+        "font-size-2xl-xx-large": {
+          "base": {
+            "value": "36px",
+            "type": "fontSize"
+          },
+          "light": {
+            "value": "36px",
+            "type": "fontSize"
+          },
+          "dark": {
+            "value": "36px",
+            "type": "fontSize"
+          }
+        },
+        "font-size-3xl-xxx-large": {
+          "base": {
+            "value": "48px",
+            "type": "fontSize"
+          },
+          "light": {
+            "value": "48px",
+            "type": "fontSize"
+          },
+          "dark": {
+            "value": "48px",
+            "type": "fontSize"
+          }
+        },
+        "font-size-4xl-xxxx-large": {
+          "base": {
+            "value": "60px",
+            "type": "fontSize"
+          },
+          "light": {
+            "value": "60px",
+            "type": "fontSize"
+          },
+          "dark": {
+            "value": "60px",
+            "type": "fontSize"
+          }
+        },
+        "font-size-5xl-xxxxx-large": {
+          "base": {
+            "value": "96px",
+            "type": "fontSize"
+          },
+          "light": {
+            "value": "96px",
+            "type": "fontSize"
+          },
+          "dark": {
+            "value": "96px",
+            "type": "fontSize"
+          }
+        }
+      }
+    },
+    "typography": {
+      "size": {
+        "x-small": {
+          "base": {
+            "value": "11px",
+            "type": "fontSize"
+          },
+          "light": {
+            "value": "11px",
+            "type": "fontSize"
+          },
+          "dark": {
+            "value": "11px",
+            "type": "fontSize"
+          }
+        },
+        "small": {
+          "base": {
+            "value": "13px",
+            "type": "fontSize"
+          },
+          "light": {
+            "value": "13px",
+            "type": "fontSize"
+          },
+          "dark": {
+            "value": "13px",
+            "type": "fontSize"
+          }
+        },
+        "medium": {
+          "base": {
+            "value": "15px",
+            "type": "fontSize"
+          },
+          "light": {
+            "value": "15px",
+            "type": "fontSize"
+          },
+          "dark": {
+            "value": "15px",
+            "type": "fontSize"
+          }
+        },
+        "large": {
+          "base": {
+            "value": "18px",
+            "type": "fontSize"
+          },
+          "light": {
+            "value": "18px",
+            "type": "fontSize"
+          },
+          "dark": {
+            "value": "18px",
+            "type": "fontSize"
+          }
+        },
+        "x-large": {
+          "base": {
+            "value": "24px",
+            "type": "fontSize"
+          },
+          "light": {
+            "value": "24px",
+            "type": "fontSize"
+          },
+          "dark": {
+            "value": "24px",
+            "type": "fontSize"
+          }
+        },
+        "xx-large": {
+          "base": {
+            "value": "36px",
+            "type": "fontSize"
+          },
+          "light": {
+            "value": "36px",
+            "type": "fontSize"
+          },
+          "dark": {
+            "value": "36px",
+            "type": "fontSize"
+          }
+        },
+        "xxx-large": {
+          "base": {
+            "value": "48px",
+            "type": "fontSize"
+          },
+          "light": {
+            "value": "48px",
+            "type": "fontSize"
+          },
+          "dark": {
+            "value": "48px",
+            "type": "fontSize"
+          }
+        },
+        "xxxx-large": {
+          "base": {
+            "value": "60px",
+            "type": "fontSize"
+          },
+          "light": {
+            "value": "60px",
+            "type": "fontSize"
+          },
+          "dark": {
+            "value": "60px",
+            "type": "fontSize"
+          }
+        },
+        "xxxxx-large": {
+          "base": {
+            "value": "96px",
+            "type": "fontSize"
+          },
+          "light": {
+            "value": "96px",
+            "type": "fontSize"
+          },
+          "dark": {
+            "value": "96px",
+            "type": "fontSize"
+          }
+        }
+      }
+    }
+  }
+}

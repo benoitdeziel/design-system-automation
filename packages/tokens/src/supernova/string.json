@@ -1,0 +1,157 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "string": {
+    "brand": {
+      "brand": {
+        "base": {
+          "value": "Landr",
+          "type": "string"
+        },
+        "light": {
+          "value": "Landr",
+          "type": "string"
+        },
+        "dark": {
+          "value": "Landr",
+          "type": "string"
+        }
+      }
+    },
+    "typography": {
+      "family": {
+        "inter": {
+          "base": {
+            "value": "Inter",
+            "type": "string"
+          },
+          "light": {
+            "value": "Inter",
+            "type": "string"
+          },
+          "dark": {
+            "value": "Inter",
+            "type": "string"
+          }
+        },
+        "jakarta": {
+          "base": {
+            "value": "Plus Jakarta Sans",
+            "type": "string"
+          },
+          "light": {
+            "value": "Plus Jakarta Sans",
+            "type": "string"
+          },
+          "dark": {
+            "value": "Plus Jakarta Sans",
+            "type": "string"
+          }
+        },
+        "open-sans": {
+          "base": {
+            "value": "Open sans",
+            "type": "string"
+          },
+          "light": {
+            "value": "Open sans",
+            "type": "string"
+          },
+          "dark": {
+            "value": "Open sans",
+            "type": "string"
+          }
+        },
+        "oswald": {
+          "base": {
+            "value": "Oswald",
+            "type": "string"
+          },
+          "light": {
+            "value": "Oswald",
+            "type": "string"
+          },
+          "dark": {
+            "value": "Oswald",
+            "type": "string"
+          }
+        }
+      },
+      "weight": {
+        "regular": {
+          "base": {
+            "value": "Regular",
+            "type": "string"
+          },
+          "light": {
+            "value": "Regular",
+            "type": "string"
+          },
+          "dark": {
+            "value": "Regular",
+            "type": "string"
+          }
+        },
+        "medium": {
+          "base": {
+            "value": "Medium",
+            "type": "string"
+          },
+          "light": {
+            "value": "Medium",
+            "type": "string"
+          },
+          "dark": {
+            "value": "Medium",
+            "type": "string"
+          }
+        },
+        "bold": {
+          "base": {
+            "value": "Bold",
+            "type": "string"
+          },
+          "light": {
+            "value": "Bold",
+            "type": "string"
+          },
+          "dark": {
+            "value": "Bold",
+            "type": "string"
+          }
+        }
+      }
+    },
+    "typographie": {
+      "font-family": {
+        "body": {
+          "base": {
+            "value": "{string.typography.family.inter}",
+            "type": "string"
+          },
+          "light": {
+            "value": "{string.typography.family.inter}",
+            "type": "string"
+          },
+          "dark": {
+            "value": "{string.typography.family.inter}",
+            "type": "string"
+          }
+        },
+        "heading": {
+          "base": {
+            "value": "{string.typography.family.inter}",
+            "type": "string"
+          },
+          "light": {
+            "value": "{string.typography.family.inter}",
+            "type": "string"
+          },
+          "dark": {
+            "value": "{string.typography.family.inter}",
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

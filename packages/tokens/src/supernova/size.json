@@ -1,0 +1,105 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "size": {
+    "sizes": {
+      "xx-small": {
+        "base": {
+          "value": "{space.spacings.1-5x}",
+          "type": "size"
+        },
+        "light": {
+          "value": "{space.spacings.1-5x}",
+          "type": "size"
+        },
+        "dark": {
+          "value": "{space.spacings.1-5x}",
+          "type": "size"
+        }
+      },
+      "x-small": {
+        "base": {
+          "value": "{space.spacings.3x}",
+          "type": "size"
+        },
+        "light": {
+          "value": "{space.spacings.3x}",
+          "type": "size"
+        },
+        "dark": {
+          "value": "{space.spacings.3x}",
+          "type": "size"
+        }
+      },
+      "small": {
+        "base": {
+          "value": "{space.spacings.5x}",
+          "type": "size"
+        },
+        "light": {
+          "value": "{space.spacings.5x}",
+          "type": "size"
+        },
+        "dark": {
+          "value": "{space.spacings.5x}",
+          "type": "size"
+        }
+      },
+      "medium": {
+        "base": {
+          "value": "{space.spacings.6x}",
+          "type": "size"
+        },
+        "light": {
+          "value": "{space.spacings.6x}",
+          "type": "size"
+        },
+        "dark": {
+          "value": "{space.spacings.6x}",
+          "type": "size"
+        }
+      },
+      "large": {
+        "base": {
+          "value": "{space.spacings.7x}",
+          "type": "size"
+        },
+        "light": {
+          "value": "{space.spacings.7x}",
+          "type": "size"
+        },
+        "dark": {
+          "value": "{space.spacings.7x}",
+          "type": "size"
+        }
+      },
+      "x-large": {
+        "base": {
+          "value": "{space.spacings.8x}",
+          "type": "size"
+        },
+        "light": {
+          "value": "{space.spacings.8x}",
+          "type": "size"
+        },
+        "dark": {
+          "value": "{space.spacings.8x}",
+          "type": "size"
+        }
+      },
+      "xx-large": {
+        "base": {
+          "value": "{space.spacings.10x}",
+          "type": "size"
+        },
+        "light": {
+          "value": "{space.spacings.10x}",
+          "type": "size"
+        },
+        "dark": {
+          "value": "{space.spacings.10x}",
+          "type": "size"
+        }
+      }
+    }
+  }
+}

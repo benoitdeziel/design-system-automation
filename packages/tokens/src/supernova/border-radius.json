@@ -1,0 +1,357 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "border-radius": {
+    "radius": {
+      "0x": {
+        "base": {
+          "value": "0px",
+          "type": "borderRadius"
+        },
+        "light": {
+          "value": "0px",
+          "type": "borderRadius"
+        },
+        "dark": {
+          "value": "0px",
+          "type": "borderRadius"
+        }
+      },
+      "0-25x": {
+        "base": {
+          "value": "2px",
+          "type": "borderRadius"
+        },
+        "light": {
+          "value": "2px",
+          "type": "borderRadius"
+        },
+        "dark": {
+          "value": "2px",
+          "type": "borderRadius"
+        }
+      },
+      "0-5x": {
+        "base": {
+          "value": "4px",
+          "type": "borderRadius"
+        },
+        "light": {
+          "value": "4px",
+          "type": "borderRadius"
+        },
+        "dark": {
+          "value": "4px",
+          "type": "borderRadius"
+        }
+      },
+      "1x": {
+        "base": {
+          "value": "8px",
+          "type": "borderRadius"
+        },
+        "light": {
+          "value": "8px",
+          "type": "borderRadius"
+        },
+        "dark": {
+          "value": "8px",
+          "type": "borderRadius"
+        }
+      },
+      "1-5x": {
+        "base": {
+          "value": "12px",
+          "type": "borderRadius"
+        },
+        "light": {
+          "value": "12px",
+          "type": "borderRadius"
+        },
+        "dark": {
+          "value": "12px",
+          "type": "borderRadius"
+        }
+      },
+      "2x": {
+        "base": {
+          "value": "16px",
+          "type": "borderRadius"
+        },
+        "light": {
+          "value": "16px",
+          "type": "borderRadius"
+        },
+        "dark": {
+          "value": "16px",
+          "type": "borderRadius"
+        }
+      },
+      "2-5x": {
+        "base": {
+          "value": "20px",
+          "type": "borderRadius"
+        },
+        "light": {
+          "value": "20px",
+          "type": "borderRadius"
+        },
+        "dark": {
+          "value": "20px",
+          "type": "borderRadius"
+        }
+      },
+      "3x": {
+        "base": {
+          "value": "24px",
+          "type": "borderRadius"
+        },
+        "light": {
+          "value": "24px",
+          "type": "borderRadius"
+        },
+        "dark": {
+          "value": "24px",
+          "type": "borderRadius"
+        }
+      },
+      "0-25x_1": {
+        "base": {
+          "value": "2px",
+          "type": "borderRadius"
+        },
+        "light": {
+          "value": "2px",
+          "type": "borderRadius"
+        },
+        "dark": {
+          "value": "2px",
+          "type": "borderRadius"
+        }
+      },
+      "0-5x_1": {
+        "base": {
+          "value": "4px",
+          "type": "borderRadius"
+        },
+        "light": {
+          "value": "4px",
+          "type": "borderRadius"
+        },
+        "dark": {
+          "value": "4px",
+          "type": "borderRadius"
+        }
+      },
+      "1x_1": {
+        "base": {
+          "value": "8px",
+          "type": "borderRadius"
+        },
+        "light": {
+          "value": "8px",
+          "type": "borderRadius"
+        },
+        "dark": {
+          "value": "8px",
+          "type": "borderRadius"
+        }
+      },
+      "2x_1": {
+        "base": {
+          "value": "16px",
+          "type": "borderRadius"
+        },
+        "light": {
+          "value": "16px",
+          "type": "borderRadius"
+        },
+        "dark": {
+          "value": "16px",
+          "type": "borderRadius"
+        }
+      },
+      "3x_1": {
+        "base": {
+          "value": "24px",
+          "type": "borderRadius"
+        },
+        "light": {
+          "value": "24px",
+          "type": "borderRadius"
+        },
+        "dark": {
+          "value": "24px",
+          "type": "borderRadius"
+        }
+      },
+      "0x_1": {
+        "base": {
+          "value": "0px",
+          "type": "borderRadius"
+        },
+        "light": {
+          "value": "0px",
+          "type": "borderRadius"
+        },
+        "dark": {
+          "value": "0px",
+          "type": "borderRadius"
+        }
+      },
+      "1-5x_1": {
+        "base": {
+          "value": "12px",
+          "type": "borderRadius"
+        },
+        "light": {
+          "value": "12px",
+          "type": "borderRadius"
+        },
+        "dark": {
+          "value": "12px",
+          "type": "borderRadius"
+        }
+      },
+      "2-5x_1": {
+        "base": {
+          "value": "20px",
+          "type": "borderRadius"
+        },
+        "light": {
+          "value": "20px",
+          "type": "borderRadius"
+        },
+        "dark": {
+          "value": "20px",
+          "type": "borderRadius"
+        }
+      },
+      "full": {
+        "base": {
+          "value": "999px",
+          "type": "borderRadius"
+        },
+        "light": {
+          "value": "999px",
+          "type": "borderRadius"
+        },
+        "dark": {
+          "value": "999px",
+          "type": "borderRadius"
+        }
+      },
+      "none": {
+        "base": {
+          "value": "{borderRadius.radius.0x}",
+          "type": "borderRadius"
+        },
+        "light": {
+          "value": "{borderRadius.radius.0x}",
+          "type": "borderRadius"
+        },
+        "dark": {
+          "value": "{borderRadius.radius.0x}",
+          "type": "borderRadius"
+        }
+      },
+      "xx-small": {
+        "base": {
+          "value": "{borderRadius.radius.0-25x}",
+          "type": "borderRadius"
+        },
+        "light": {
+          "value": "{borderRadius.radius.0-25x}",
+          "type": "borderRadius"
+        },
+        "dark": {
+          "value": "{borderRadius.radius.0-25x}",
+          "type": "borderRadius"
+        }
+      },
+      "x-small": {
+        "base": {
+          "value": "{borderRadius.radius.0-5x}",
+          "type": "borderRadius"
+        },
+        "light": {
+          "value": "{borderRadius.radius.0-5x}",
+          "type": "borderRadius"
+        },
+        "dark": {
+          "value": "{borderRadius.radius.0-5x}",
+          "type": "borderRadius"
+        }
+      },
+      "small": {
+        "base": {
+          "value": "{borderRadius.radius.1x}",
+          "type": "borderRadius"
+        },
+        "light": {
+          "value": "{borderRadius.radius.1x}",
+          "type": "borderRadius"
+        },
+        "dark": {
+          "value": "{borderRadius.radius.1x}",
+          "type": "borderRadius"
+        }
+      },
+      "medium": {
+        "base": {
+          "value": "{borderRadius.radius.1-5x}",
+          "type": "borderRadius"
+        },
+        "light": {
+          "value": "{borderRadius.radius.1-5x}",
+          "type": "borderRadius"
+        },
+        "dark": {
+          "value": "{borderRadius.radius.1-5x}",
+          "type": "borderRadius"
+        }
+      },
+      "large": {
+        "base": {
+          "value": "{borderRadius.radius.2x}",
+          "type": "borderRadius"
+        },
+        "light": {
+          "value": "{borderRadius.radius.2x}",
+          "type": "borderRadius"
+        },
+        "dark": {
+          "value": "{borderRadius.radius.2x}",
+          "type": "borderRadius"
+        }
+      },
+      "x-large": {
+        "base": {
+          "value": "{borderRadius.radius.2-5x}",
+          "type": "borderRadius"
+        },
+        "light": {
+          "value": "{borderRadius.radius.2-5x}",
+          "type": "borderRadius"
+        },
+        "dark": {
+          "value": "{borderRadius.radius.2-5x}",
+          "type": "borderRadius"
+        }
+      },
+      "xx-large": {
+        "base": {
+          "value": "{borderRadius.radius.3x}",
+          "type": "borderRadius"
+        },
+        "light": {
+          "value": "{borderRadius.radius.3x}",
+          "type": "borderRadius"
+        },
+        "dark": {
+          "value": "{borderRadius.radius.3x}",
+          "type": "borderRadius"
+        }
+      }
+    }
+  }
+}
